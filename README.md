@@ -1,4 +1,4 @@
-#  DevOps-Assignment
+#DevOps-Assignment
 Overview:
 This project is a simple Dockerized Node.js web app deployed on an AWS EC2 instance with Basic Automation.
 
@@ -15,8 +15,8 @@ PART 1: Run the App Locally Using Docker
 Step 1: Clone the Repository
 Open your terminal and run:
 
-    git clone https://github.com/<your-username>/DevOps-Assignment.git
-    cd DevOps-Assignment
+    git clone https://github.com/<your-username>/devops-assignment.git
+    cd devops-assignment
 Once you're inside the project folder, go to the next step.
 
 Step 2: Build the Docker Image
@@ -89,9 +89,9 @@ Run these commands one-by-one to install and configure Docker:
 Step 4: Clone the Project and Build Docker Image
 
 
-    git clone https://github.com/<your-username>/  DevOps-Assignment.git
+    git clone https://github.com/<your-username>/devops-assignment.git
     
-    cd  DevOps-Assignment
+    cd  devops-assignment
     
     docker build -t lonelybag-app .
 
